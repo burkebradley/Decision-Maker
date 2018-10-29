@@ -26,5 +26,5 @@ public class DecisionMaker
 			String randomChoice = choices[(int)(Math.random()*numberChoices)];
 			System.out.println("Choose " + randomChoice);
 		}
-
+//ok
 	}
